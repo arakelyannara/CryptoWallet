@@ -9,11 +9,21 @@ In this repo we are going to generate a wallet based on mnemonic phrase provided
 
 To install it run the following command line in the Terminal
 
-    ```pip install streamlit ```
+            ```pip install streamlit ```
 
 Download and install Ganache
  
 * [Ganache](https://trufflesuite.com/ganache/) 
+
+* Web3.py- A Python library for connecting to and performing operations on Ethereum-based blockchains.
+
+            ```pip install web3==5.17```
+
+* mnemonic- A Python implementation for generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
+            ```pip install mnemonic```
+
+* bip44 - A Python implementation for deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
+            ```pip install bip44```
 
 
 ## Usage
