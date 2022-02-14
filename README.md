@@ -42,7 +42,7 @@ Download and install Ganache
 
 ```streamlit run fintech_finder.py```
 
-See the video below how it works
+__See the video below how it works__
 
 [Streamlit in Action - "Ethereum transfer using Ganache blockchain"](Readme_pics_vid/Screen_Recording.mov)
 
