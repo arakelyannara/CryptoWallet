@@ -20,9 +20,11 @@ Download and install Ganache
             ```pip install web3==5.17```
 
 * mnemonic- A Python implementation for generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
+
             ```pip install mnemonic```
 
 * bip44 - A Python implementation for deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
+
             ```pip install bip44```
 
 
